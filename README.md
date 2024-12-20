@@ -1,2 +1,2 @@
-# Core-Computer-Science
+# CoreComputerScience
 SDE Preparation Repo from Scratch
