@@ -1,0 +1,23 @@
+SDE RoadMap:
+
+20-12-2024
+
+DSA-Strivers Sheet (Daily evening)
+Basic CS:
+
+Operating Systems- Geeks For Geeks (During Office Time)
+Computer Networks- Geeks For Geeks (Every Morning)
+DBMS- Strivers + Hands on Practice Daily (Decide after OS & CN)
+
+OOPS- 1 day with JAVA
+
+LLD- Yet to find resources
+
+Spring Boot- (1 Project)
+
+SDE-2 Roadmap:
+
+Advanced CS:
+
+HLD:
+
